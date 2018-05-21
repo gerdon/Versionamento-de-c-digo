@@ -1,1 +1,3 @@
 file02 - Arquivo de exemplo do exercicio 2
+
+# Arquivo alterado a partir da branch hotfix01
